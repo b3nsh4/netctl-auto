@@ -11,5 +11,5 @@ This is written for netctl users. But should work in other network-managers afte
  | done!
  `
  
- ![](https://imgur.com/MMqPzIp)
+ ![](https://raw.githubusercontent.com/bensh4/netctl-auto/master/MMqPzIp%20-%20Imgur.mp4)
 
