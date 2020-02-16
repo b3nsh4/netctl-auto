@@ -10,3 +10,6 @@ This is written for netctl users. But should work in other network-managers afte
  | type in new password
  | done!
  `
+ 
+ ![](https://imgur.com/a/UADtIBY)
+
